@@ -1,23 +1,21 @@
 ---
 project:
-  - proj1
+  - CRC_virome
 doc-type:
   - project page
 people:
-  - Wayne
+  - Ryan Doughty
 ---
 # Project tag
-> make a unique tag for all experiments/analyses and add it to queries/dataviews 
-
-#proj1
+#CRC_virome
 
 # Abstract
-> Brief summary of the **why** and **how** of this project
+The goal is to identify if there are bacteriophages of interest in the Gut Microbiome of CRC patients vs healthy controls
 
 # KanBan
 > Update pseudocode with this project's name and create KanBan
-
-![[projects/proj1/proj1 kanban]]
+> 
+![[CRC_virome kanban]]
 # Project updates
 > Add summary, thoughts, progress after presenting or completing milestone
 > Include date tags with updates
@@ -26,15 +24,12 @@ people:
 > Update `dataview` contains() command to this project's name
 
 ```dataview
-TABLE file.tags, file.frontmatter.date AS "date", file.frontmatter.status AS "status"
-WHERE contains(file.frontmatter.project, "proj1")
-and contains(file.frontmatter.doc-type, "experiment")
+TABLE tags, date, status
+WHERE contains(file.frontmatter.project, "CRC_virome")
 SORT file.frontmatter.status ASC
 ```
 
 # Query all notes using this project's tag
-> update query code to use this project's tag
-
 ```query
-#proj1
+#CRC_virome 
 ```

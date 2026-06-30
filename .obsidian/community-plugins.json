@@ -8,5 +8,6 @@
   "obsidian-linter",
   "nldates-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-git"
 ]

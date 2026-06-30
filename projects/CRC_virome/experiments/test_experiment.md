@@ -1,15 +1,14 @@
 ---
-"date:": 2024-09-05
+"date:": 2026-06-30
 doc-type:
   - experiment
 status: planning
 project:
-  - proj1
-"completion date:":
+  - CRC_virome
+"completion date:": 2026-06-30
 ---
 #experiment
-#proj1
-
+#CRC_virome 
 # External Links
 > referenced scripts, .pdfs, websites, etc.
 # Abstract

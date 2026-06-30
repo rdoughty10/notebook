@@ -14,7 +14,7 @@ people:
 
 # KanBan
 > Update pseudocode with this project's name and create KanBan
-![[projectname kanban]]
+![[CRC_virome kanban]]
 # Project updates
 > Add summary, thoughts, progress after presenting or completing milestone
 > Include date tags with updates

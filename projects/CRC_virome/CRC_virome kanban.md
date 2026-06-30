@@ -1,27 +1,22 @@
 ---
-
 kanban-plugin: board
-
+project:
 ---
 
 ## planning
 
-- [ ] dinner
 
 
-## in-progess
+## in-progress
 
-- [ ] lunch
 
 
 ## complete
 
-- [ ] breakfast
 
 
 ## on ice
 
-- [ ] dessert
 
 
 
