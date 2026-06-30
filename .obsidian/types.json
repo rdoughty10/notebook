@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "creation date:": "datetime",
+    "completion date": "date",
+    "completion date:": "date",
+    "seq pools": "multitext",
+    "protocol name": "multitext",
+    "creation date": "date",
+    "doc-type": "multitext",
+    "project": "multitext",
+    "codelang": "multitext",
+    "people": "multitext"
+  }
+}
