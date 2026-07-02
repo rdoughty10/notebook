@@ -33,6 +33,14 @@ All samples --> Assembled Megahit --> Genomad --> CheckV
 	- This resulted in 13866 genomes
 
 Make sure that the genomes are then filtered. 
+
+
+Taxonomy wise
+- the AECC samples were annotated with the UHGV pipeline and genomad, taking the lower assignment for each. Genomad seemed more sensitive, but UHGV could go more specific in cases. 
+	- Most aren't able to go below family level
+- the UHGV have it built into metadata
+- the ICTV have build into metadata
+- All combined, then seperated by each 
 # Actions
 > Section for **Protocols and SOPs** performed
 > Please import a specific (if possible) or generic template for each action
