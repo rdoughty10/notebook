@@ -31,6 +31,8 @@ All samples --> Assembled Megahit --> Genomad --> CheckV
 	- Note that these come in all different forms (some are segmented, etc)
 		- Wrote (claude wrote) to take all of the different formats and downloaded them
 	- This resulted in 13866 genomes
+
+Make sure that the genomes are then filtered. 
 # Actions
 > Section for **Protocols and SOPs** performed
 > Please import a specific (if possible) or generic template for each action
