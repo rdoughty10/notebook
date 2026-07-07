@@ -40,7 +40,7 @@ Taxonomy wise
 	- Most aren't able to go below family level
 - the UHGV have it built into metadata
 - the ICTV have build into metadata
-- All combined, then seperated by each 
+- All combined, then seperated by each level
 # Actions
 > Section for **Protocols and SOPs** performed
 > Please import a specific (if possible) or generic template for each action
