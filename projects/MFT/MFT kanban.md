@@ -1,8 +1,6 @@
 ---
-
 kanban-plugin: board
 project:
-
 ---
 
 ## planning
@@ -15,7 +13,6 @@ project:
 
 ## complete
 
-- [ ] Run Genomad, CheckV on existing assemblies
 
 
 ## on ice
